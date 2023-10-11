@@ -39,4 +39,4 @@ If you find any bug or have any suggestion, please do file issues. I am graceful
 
 Contact
 -------
-pouryiam1 at gmail dot com
+pouryiam1@gmail.com
